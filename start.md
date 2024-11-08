@@ -1,14 +1,8 @@
-git工具帮助
-===
-[]中为必选参数，<>中为可选参数
-<h2>git clone</h2>
+# 快速开始
+### 项目
+[SCE_Track](https://github.com/OracleLoadstar/SupportCard_Evaluator_Track_Release "SCE Cmd版本")<br>
+[SCE_Creation](https://github.com/OracleLoadstar/SupportCard_Evaluator_Creation_Release "SCE Web版本")
 
-~~~bash
-git clone [仓库URL] <存放目录名>
-~~~
-
-克隆仓库<br>
-
-<h2>
-~~~bash
-git 
+# 关于我们
+NULL<br>
+[GitHub](https://github.com/OracleLoadstar "神谕北极星组织链接，欢迎访问")
