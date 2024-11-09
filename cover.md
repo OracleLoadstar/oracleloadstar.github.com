@@ -1,7 +1,7 @@
 # OracleLoadstar
 [GitHub](https://github.com/OracleLoadstar/)
-[Get Started](#快速开始)
+[Get Started](#quickly_start)
 
-<!-- 背景图片 -->
+<!-- 鑳屾櫙鍥剧墖 -->
 
 ![](HomePage.png)
