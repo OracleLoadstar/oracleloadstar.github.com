@@ -1,7 +1,7 @@
 # docsify <small>3.5</small>
 [GitHub](https://github.com/OracleLoadstar/)
-[Get Started](#¿ìËÙ¿ªÊ¼)
+[Get Started](#å¿«é€Ÿå¼€å§‹)
 
-<!-- ±³¾°Í¼Æ¬ -->
+<!-- èƒŒæ™¯å›¾ç‰‡ -->
 
 ![](HomePage.png)
