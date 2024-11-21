@@ -9,24 +9,32 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
 </head>
 <body>
-  <div id="app">...细嗅蔷薇...</div>
+    <div id="app">...细嗅蔷薇...</div>
 
 
-  <script>
-      window.$docsify = {
-          coverpage: true,
-          logo: 'icon.svg',
-          subMaxLevel: 2,
-          coverpage: 'cover.md',
-          relativePath: true,
-          name: 'OLoad',
-          homepage: 'start.md',
-          notFoundPage: true,
-      }
+    <script>
+        window.$docsify = {
+            coverpage: true,
+            logo: 'icon.svg',
+            subMaxLevel: 2,
+            coverpage: 'cover.md',
+            relativePath: true,
+            name: 'OLoad',
+            homepage: 'start.md',
+            notFoundPage: true,
+        }
 
 
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    </script>
+    <!-- Docsify v4 -->
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
+    </script>
+    <script src="https://unpkg.com/docsify-copy-code@2"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
 </body>
 </html>

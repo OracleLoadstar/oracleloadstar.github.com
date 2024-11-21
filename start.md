@@ -2,6 +2,10 @@
 # quickly_start
 ### 项目
 
+~~~bash
+git clone 
+~~~
+
 ### SCE_Track
 赛马娘支援卡评价器Cmd版本。<br>
 
